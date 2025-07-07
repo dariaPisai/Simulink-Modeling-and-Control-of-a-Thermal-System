@@ -1,7 +1,3 @@
-Of course. Here is a sample README file based on the project details you provided.
-
-***
-
 # Simulink Modeling and Control of a Thermal System
 
 This project involves the modeling, simulation, and control of a two-capacitance thermal system using MATLAB & Simulink. The project is divided into two main parts:
